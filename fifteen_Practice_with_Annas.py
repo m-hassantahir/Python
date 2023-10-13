@@ -4,5 +4,3 @@ print(numbers)
 for n in numbers:
     while numbers.count(n) > 1:
         numbers.remove(n)
-
-print(numbers)
